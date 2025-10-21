@@ -1,22 +1,20 @@
-#Check if the user can log in based on correct username and password.
-#I/p
-#username = "admin"
-#password = "1234"
-#O/p ✅ Login Successful
-#For the Fail condition Other O/P = ❌ Invalid Credentials
+# Check if the user can log in based on correct username and password.
+#
+# I/p
+#
+# username = "admin"
+# password = "1234"
+#
+# O/p
+# ✅ Login Successful
+#
+#
+# For the Fail condition Other O/P = ❌ Invalid Credentials
 
-stored_username = "admin"
-stored_password = "1234"
+username = input("Enter Username: ")
+password = input("Enter Password: ")
 
-username= input("Please enter the username: ".strip())
-password= input("Please enter the password: ".strip())
-
-if not username or not password:
-    print("⚠️ Invalid input! Username or password cannot be blank.")
-
-elif username.lower() != stored_username.lower():
-    print("❌ Incorrect Username")
-elif password != stored_password:
-    print("❌ Incorrect Password")
+if username == "admin" and password == "1234":
+    print("✅ Login Successful")
 else:
-    print("The username and password are matched and user logged in")
+    print("❌ Invalid Credentials")

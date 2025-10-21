@@ -4,13 +4,11 @@
 # I/P response = 404 , O/P ❌ Failed API Request
 # I/P response = 200 , O/P ✅ Passed API Request
 
-response = int(input("Enter the response code:"))
+code = int(input("Enter the code: "))
 
-if response < 0:
-    print("⚠️ Invalid input! Response code cannot be negative.")
-elif response > 599:
-    print("⚠️ Invalid input! Response code exceeds standard HTTP range (0–599).")
-elif response== 200:
-    print("Pass the API request ✅")
+if code == 200:
+    print("O/P ✅ Passed API Request")
+elif code == 404:
+    print("O/P ❌ Failed API Request")
 else:
-    print("Failed API Request ❌ ")
+    print("Enter correct code")
