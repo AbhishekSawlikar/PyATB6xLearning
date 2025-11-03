@@ -4,17 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3b56c2e-8b91-4908-a188-e49652ba235f" name="Changes" comment="Task updated till Oct 30, 2025">
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab068_User_Input_Pass_Function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab069_Functions_Types.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab070_Functions_IQ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab071_IQ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab072_Infinite_Args.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab073_Real_Args.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_09_Function_Scopes/python_dir/Lab075_Local_Variable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_09_Function_Scopes/python_dir/Lab076.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_09_Function_Scopes/python_dir/Lab077_Local_Var.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_09_Function_Scopes/python_dir/Lab078_Inner_Functions.py" afterDir="false" />
+    <list default="true" id="b3b56c2e-8b91-4908-a188-e49652ba235f" name="Changes" comment="Task updated till Nov 1, 2025">
+      <change afterPath="$PROJECT_DIR$/src/ex_10_ Decorators/Lab079_Decortors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10_ Decorators/Lab080_Decor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10_ Decorators/Lab081_WithOutDecor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10_ Decorators/Lab082_Real_Decor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10_ Decorators/Lab083_Decor_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10_ Decorators/Lab084_IQ_Leap_Year.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10_ Decorators/LabTime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_11_TypeConversion/Lab087_Type_Conversion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_11_TypeConversion/Lab088_IQ_Triangle_Classifier.p.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_12_Lambda_Function/Lab090_Lambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_12_Lambda_Function/Lab091_Lambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_12_Lambda_Function/Lab092_Lambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_12_Lambda_Function/Lab093_Lambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_12_Lambda_Function/Lab094_User_Input_ODD_Even.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_12_Lambda_Function/Lab095_Lambda.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,6 +35,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -85,6 +96,19 @@
     "Python.Lab076.executor": "Run",
     "Python.Lab077_Local_Var.executor": "Run",
     "Python.Lab078_Inner_Functions.executor": "Run",
+    "Python.Lab079_Decortors.executor": "Run",
+    "Python.Lab080_Decor.executor": "Run",
+    "Python.Lab081_WithOutDecor.executor": "Run",
+    "Python.Lab082_Real_Decor.executor": "Run",
+    "Python.Lab083_Decor_2.executor": "Run",
+    "Python.Lab084_IQ_Leap_Year.executor": "Run",
+    "Python.Lab087_Type_Conversion.executor": "Run",
+    "Python.Lab090_Lambda.executor": "Run",
+    "Python.Lab091_Lambda.executor": "Run",
+    "Python.Lab092_Lambda.executor": "Run",
+    "Python.Lab093_Lambda.executor": "Run",
+    "Python.Lab094_User_Input_ODD_Even.executor": "Run",
+    "Python.Lab095_Lambda.executor": "Run",
     "Python.LabForReverse.executor": "Run",
     "Python.LabForUsedRealLife.executor": "Run",
     "Python.LabMatch002.executor": "Run",
@@ -92,6 +116,7 @@
     "Python.LabQ02.executor": "Run",
     "Python.LabQ03_REAL_Example.executor": "Run",
     "Python.LabSwitch001.executor": "Run",
+    "Python.LabTime.executor": "Run",
     "Python.LabWhile.executor": "Run",
     "Python.LabWhile_Vs_For.executor": "Run",
     "Python.Pass_vs_Continue.executor": "Run",
@@ -100,12 +125,14 @@
     "Python.Task02_28Oct25_reversenumbering.executor": "Run",
     "Python.Task03_28Oct25.executor": "Run",
     "Python.Task_Grade_Calc.executor": "Run",
+    "Python.Task_Nov_1_Check_TC_Status.executor": "Run",
     "Python.Task_Oct_18_If_Else.executor": "Run",
     "Python.Task_Oct_18_If_Else_Q2.executor": "Run",
     "Python.Task_Oct_18_If_Else_Q3.executor": "Run",
     "Python.Task_Oct_30_FunctionTriangle.executor": "Run",
     "Python.Task_Oct_30_Q1.executor": "Run",
     "Python.Task_Oct_30_Square (1).executor": "Run",
+    "Python.pytest.executor": "Run",
     "Python.task_FizzBuzz.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -118,8 +145,8 @@
       <recent name="C:\Users\abhishek.sawlikar\PycharmProjects\PyATB6xLearning\src\ex_09_Function_Scopes\normal_dir" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Task_Nov_1_Check_TC_Status">
-    <configuration name="Lab075_Local_Variable (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Task_Nov4_Right_Triangle">
+    <configuration name="Lab092_Lambda" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -128,11 +155,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_09_Function_Scopes/python_dir" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_12_Lambda_Function" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_09_Function_Scopes/python_dir/Lab075_Local_Variable.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_12_Lambda_Function/Lab092_Lambda.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,7 +168,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab076" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab093_Lambda" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -150,11 +177,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_09_Function_Scopes/python_dir" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_12_Lambda_Function" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_09_Function_Scopes/python_dir/Lab076.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_12_Lambda_Function/Lab093_Lambda.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -163,7 +190,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab077_Local_Var" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab094_User_Input_ODD_Even" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -172,11 +199,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_09_Function_Scopes/python_dir" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_12_Lambda_Function" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_09_Function_Scopes/python_dir/Lab077_Local_Var.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_12_Lambda_Function/Lab094_User_Input_ODD_Even.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -185,7 +212,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab078_Inner_Functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab095_Lambda" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -194,11 +221,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_09_Function_Scopes/python_dir" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_12_Lambda_Function" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_09_Function_Scopes/python_dir/Lab078_Inner_Functions.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_12_Lambda_Function/Lab095_Lambda.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -207,7 +234,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Task_Nov_1_Check_TC_Status" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Task_Nov4_Right_Triangle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -220,7 +247,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task/Task_Nov_1_Check_TC_Status.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task/Task_Nov4_Right_Triangle.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -231,11 +258,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Task_Nov_1_Check_TC_Status" />
-        <item itemvalue="Python.Lab078_Inner_Functions" />
-        <item itemvalue="Python.Lab077_Local_Var" />
-        <item itemvalue="Python.Lab076" />
-        <item itemvalue="Python.Lab075_Local_Variable (1)" />
+        <item itemvalue="Python.Task_Nov4_Right_Triangle" />
+        <item itemvalue="Python.Lab095_Lambda" />
+        <item itemvalue="Python.Lab094_User_Input_ODD_Even" />
+        <item itemvalue="Python.Lab093_Lambda" />
+        <item itemvalue="Python.Lab092_Lambda" />
       </list>
     </recent_temporary>
   </component>
@@ -334,7 +361,23 @@
       <option name="project" value="LOCAL" />
       <updated>1762146556814</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Task updated till Nov 1, 2025">
+      <option name="closed" value="true" />
+      <created>1762168057848</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1762168057848</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Task updated till Nov 1, 2025">
+      <option name="closed" value="true" />
+      <created>1762168088104</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1762168088104</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -345,6 +388,7 @@
     <MESSAGE value="Task updated till Oct 18, 2025" />
     <MESSAGE value="Task updated till Oct 28, 2025" />
     <MESSAGE value="Task updated till Oct 30, 2025" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task updated till Oct 30, 2025" />
+    <MESSAGE value="Task updated till Nov 1, 2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task updated till Nov 1, 2025" />
   </component>
 </project>
