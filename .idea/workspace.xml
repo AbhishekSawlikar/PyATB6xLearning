@@ -4,22 +4,37 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3b56c2e-8b91-4908-a188-e49652ba235f" name="Changes" comment="Task updated till Nov 1, 2025">
-      <change afterPath="$PROJECT_DIR$/src/ex_10_ Decorators/Lab079_Decortors.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10_ Decorators/Lab080_Decor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10_ Decorators/Lab081_WithOutDecor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10_ Decorators/Lab082_Real_Decor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10_ Decorators/Lab083_Decor_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10_ Decorators/Lab084_IQ_Leap_Year.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10_ Decorators/LabTime.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_11_TypeConversion/Lab087_Type_Conversion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_11_TypeConversion/Lab088_IQ_Triangle_Classifier.p.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_12_Lambda_Function/Lab090_Lambda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_12_Lambda_Function/Lab091_Lambda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_12_Lambda_Function/Lab092_Lambda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_12_Lambda_Function/Lab093_Lambda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_12_Lambda_Function/Lab094_User_Input_ODD_Even.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_12_Lambda_Function/Lab095_Lambda.py" afterDir="false" />
+    <list default="true" id="b3b56c2e-8b91-4908-a188-e49652ba235f" name="Changes" comment="Task Pushed till Nov 1,2025">
+      <change afterPath="$PROJECT_DIR$/src/ex_13_List/Lab096_List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13_List/Lab097_List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13_List/Lab098_POP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14_Tuple/Lab099_Tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14_Tuple/Lab100_Tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14_Tuple/Lab101_Tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_15_Set/Lab102_SET.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_15_Set/Lab103_SET_P2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_15_Set/Lab104_SET_P3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_15_Set/Lab105_Extra.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_15_Set/Lab105_IQ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_16_Map_Filters_List/LabFilter01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_16_Map_Filters_List/LabFilter02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_16_Map_Filters_List/LabFilter03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_16_Map_Filters_List/LabMap01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_16_Map_Filters_List/LabMap02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_16_Map_Filters_List/LabMap03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab106_Dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab107_Dict_P2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab108_Dict_Mul.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab109_Dict_Mul.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab110_Dict_Concepts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab111_Dict_Frequency_Char_String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab112_Dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab113_Dict_IQ_Max_Values.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab114_IQ_Dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab115_Dict_Dup_Keys.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab115_Dict_IQ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab116_IQ_count_vowel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/Lab117_OOps_Class.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -109,8 +124,38 @@
     "Python.Lab093_Lambda.executor": "Run",
     "Python.Lab094_User_Input_ODD_Even.executor": "Run",
     "Python.Lab095_Lambda.executor": "Run",
+    "Python.Lab096_List.executor": "Run",
+    "Python.Lab097_List.executor": "Run",
+    "Python.Lab098_POP.executor": "Run",
+    "Python.Lab099_Tuple.executor": "Run",
+    "Python.Lab100_Tuple.executor": "Run",
+    "Python.Lab101_Tuple.executor": "Run",
+    "Python.Lab102_SET.executor": "Run",
+    "Python.Lab103_SET_P2.executor": "Run",
+    "Python.Lab104_SET_P3.executor": "Run",
+    "Python.Lab105_Extra.executor": "Run",
+    "Python.Lab105_IQ.executor": "Run",
+    "Python.Lab106_Dict.executor": "Run",
+    "Python.Lab107_Dict_P2.executor": "Run",
+    "Python.Lab108_Dict_Mul.executor": "Run",
+    "Python.Lab109_Dict_Mul.executor": "Run",
+    "Python.Lab110_Dict_Concepts.executor": "Run",
+    "Python.Lab111_Dict_Frequency_Char_String.executor": "Run",
+    "Python.Lab112_Dict.executor": "Run",
+    "Python.Lab113_Dict_IQ_Max_Values.executor": "Run",
+    "Python.Lab114_IQ_Dict.executor": "Run",
+    "Python.Lab115_Dict_Dup_Keys.executor": "Run",
+    "Python.Lab115_Dict_IQ.executor": "Run",
+    "Python.Lab116_IQ_count_vowel.executor": "Run",
+    "Python.Lab117_OOps_Class.executor": "Run",
+    "Python.LabFilter01.executor": "Run",
+    "Python.LabFilter02.executor": "Run",
+    "Python.LabFilter03.executor": "Run",
     "Python.LabForReverse.executor": "Run",
     "Python.LabForUsedRealLife.executor": "Run",
+    "Python.LabMap01.executor": "Run",
+    "Python.LabMap02.executor": "Run",
+    "Python.LabMap03.executor": "Run",
     "Python.LabMatch002.executor": "Run",
     "Python.LabQ01.executor": "Run",
     "Python.LabQ02.executor": "Run",
@@ -125,6 +170,7 @@
     "Python.Task02_28Oct25_reversenumbering.executor": "Run",
     "Python.Task03_28Oct25.executor": "Run",
     "Python.Task_Grade_Calc.executor": "Run",
+    "Python.Task_Nov4_Right_Triangle.executor": "Run",
     "Python.Task_Nov_1_Check_TC_Status.executor": "Run",
     "Python.Task_Oct_18_If_Else.executor": "Run",
     "Python.Task_Oct_18_If_Else_Q2.executor": "Run",
@@ -145,8 +191,8 @@
       <recent name="C:\Users\abhishek.sawlikar\PycharmProjects\PyATB6xLearning\src\ex_09_Function_Scopes\normal_dir" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Task_Nov4_Right_Triangle">
-    <configuration name="Lab092_Lambda" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Lab117_OOps_Class">
+    <configuration name="Lab114_IQ_Dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -155,11 +201,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_12_Lambda_Function" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_17_Dict" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_12_Lambda_Function/Lab092_Lambda.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_17_Dict/Lab114_IQ_Dict.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,7 +214,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab093_Lambda" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab115_Dict_Dup_Keys" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -177,11 +223,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_12_Lambda_Function" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_17_Dict" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_12_Lambda_Function/Lab093_Lambda.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_17_Dict/Lab115_Dict_Dup_Keys.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -190,7 +236,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab094_User_Input_ODD_Even" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab115_Dict_IQ" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -199,11 +245,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_12_Lambda_Function" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_17_Dict" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_12_Lambda_Function/Lab094_User_Input_ODD_Even.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_17_Dict/Lab115_Dict_IQ.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -212,7 +258,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab095_Lambda" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab116_IQ_count_vowel" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -221,11 +267,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_12_Lambda_Function" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_17_Dict" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_12_Lambda_Function/Lab095_Lambda.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_17_Dict/Lab116_IQ_count_vowel.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -234,7 +280,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Task_Nov4_Right_Triangle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab117_OOps_Class" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -243,11 +289,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/task" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_OOps_Python" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task/Task_Nov4_Right_Triangle.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_OOps_Python/Lab117_OOps_Class.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -258,11 +304,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Task_Nov4_Right_Triangle" />
-        <item itemvalue="Python.Lab095_Lambda" />
-        <item itemvalue="Python.Lab094_User_Input_ODD_Even" />
-        <item itemvalue="Python.Lab093_Lambda" />
-        <item itemvalue="Python.Lab092_Lambda" />
+        <item itemvalue="Python.Lab117_OOps_Class" />
+        <item itemvalue="Python.Lab116_IQ_count_vowel" />
+        <item itemvalue="Python.Lab115_Dict_IQ" />
+        <item itemvalue="Python.Lab115_Dict_Dup_Keys" />
+        <item itemvalue="Python.Lab114_IQ_Dict" />
       </list>
     </recent_temporary>
   </component>
@@ -377,7 +423,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762168088104</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Task Pushed till Nov 1,2025">
+      <option name="closed" value="true" />
+      <created>1762516356714</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1762516356714</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -389,6 +443,8 @@
     <MESSAGE value="Task updated till Oct 28, 2025" />
     <MESSAGE value="Task updated till Oct 30, 2025" />
     <MESSAGE value="Task updated till Nov 1, 2025" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task updated till Nov 1, 2025" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
+    <MESSAGE value="Task Pushed till Nov 1,2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task Pushed till Nov 1,2025" />
   </component>
 </project>
