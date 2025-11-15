@@ -4,38 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3b56c2e-8b91-4908-a188-e49652ba235f" name="Changes" comment="Task Pushed till Nov 1,2025">
-      <change afterPath="$PROJECT_DIR$/src/ex_13_List/Lab096_List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13_List/Lab097_List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13_List/Lab098_POP.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14_Tuple/Lab099_Tuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14_Tuple/Lab100_Tuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14_Tuple/Lab101_Tuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_15_Set/Lab102_SET.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_15_Set/Lab103_SET_P2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_15_Set/Lab104_SET_P3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_15_Set/Lab105_Extra.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_15_Set/Lab105_IQ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_16_Map_Filters_List/LabFilter01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_16_Map_Filters_List/LabFilter02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_16_Map_Filters_List/LabFilter03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_16_Map_Filters_List/LabMap01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_16_Map_Filters_List/LabMap02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_16_Map_Filters_List/LabMap03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab106_Dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab107_Dict_P2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab108_Dict_Mul.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab109_Dict_Mul.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab110_Dict_Concepts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab111_Dict_Frequency_Char_String.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab112_Dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab113_Dict_IQ_Max_Values.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab114_IQ_Dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab115_Dict_Dup_Keys.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab115_Dict_IQ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab116_IQ_count_vowel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/Lab117_OOps_Class.py" afterDir="false" />
+    <list default="true" id="b3b56c2e-8b91-4908-a188-e49652ba235f" name="Changes" comment="Task Pushed till Nov 11,2025">
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/01_Class_Object/Lab118_Class_Dog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/01_Class_Object/Lab119_Class_Dog_P2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/02_Constructor/Lab119_Class_Dog_P2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/02_Constructor/Lab119_Class_Dog_P3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/02_Constructor/Lab120_Class_Dog_P3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/02_Constructor/Lab121_User_Input_Person.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/02_Constructor/Lab122_Calc_Non_PC.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/02_Constructor/Lab123_Calc_PC.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/03_Instance_Variable/Lab124_OOps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/03_Instance_Variable/Lab125_OOps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task/Task_13_OOPS_Concept_Q1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task/Task_TriaglePrinting.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_18_OOps_Python/Lab117_OOps_Class.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/01_Class_Object/Lab117_OOps_Class.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,6 +131,15 @@
     "Python.Lab115_Dict_IQ.executor": "Run",
     "Python.Lab116_IQ_count_vowel.executor": "Run",
     "Python.Lab117_OOps_Class.executor": "Run",
+    "Python.Lab118_Class_Dog.executor": "Run",
+    "Python.Lab119_Class_Dog_P2.executor": "Run",
+    "Python.Lab119_Class_Dog_P3.executor": "Run",
+    "Python.Lab120_Class_Dog_P3.executor": "Run",
+    "Python.Lab121_User_Input_Person.executor": "Run",
+    "Python.Lab122_Calc_Non_PC.executor": "Run",
+    "Python.Lab123_Calc_PC.executor": "Run",
+    "Python.Lab124_OOps.executor": "Run",
+    "Python.Lab125_OOps.executor": "Run",
     "Python.LabFilter01.executor": "Run",
     "Python.LabFilter02.executor": "Run",
     "Python.LabFilter03.executor": "Run",
@@ -169,6 +161,9 @@
     "Python.Task01_EvenNumber_28Oct25.executor": "Run",
     "Python.Task02_28Oct25_reversenumbering.executor": "Run",
     "Python.Task03_28Oct25.executor": "Run",
+    "Python.Task_11_November_Q1.executor": "Run",
+    "Python.Task_11_November_Q2.executor": "Run",
+    "Python.Task_13_OOPS_Concept_Q1.executor": "Run",
     "Python.Task_Grade_Calc.executor": "Run",
     "Python.Task_Nov4_Right_Triangle.executor": "Run",
     "Python.Task_Nov_1_Check_TC_Status.executor": "Run",
@@ -178,6 +173,7 @@
     "Python.Task_Oct_30_FunctionTriangle.executor": "Run",
     "Python.Task_Oct_30_Q1.executor": "Run",
     "Python.Task_Oct_30_Square (1).executor": "Run",
+    "Python.Task_TriaglePrinting.executor": "Run",
     "Python.pytest.executor": "Run",
     "Python.task_FizzBuzz.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -187,12 +183,13 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\abhishek.sawlikar\PycharmProjects\PyATB6xLearning\src\ex_18_OOps_Python\01_Class_Object" />
       <recent name="C:\Users\abhishek.sawlikar\PycharmProjects\PyATB6xLearning\src\ex_09_Function_Scopes\python_dir" />
       <recent name="C:\Users\abhishek.sawlikar\PycharmProjects\PyATB6xLearning\src\ex_09_Function_Scopes\normal_dir" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lab117_OOps_Class">
-    <configuration name="Lab114_IQ_Dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Task_26_Calc">
+    <configuration name="Lab124_OOps" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -201,11 +198,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_17_Dict" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_OOps_Python/03_Instance_Variable" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_17_Dict/Lab114_IQ_Dict.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_OOps_Python/03_Instance_Variable/Lab124_OOps.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -214,7 +211,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab115_Dict_Dup_Keys" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Task_13_OOPS_Concept_Q1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -223,11 +220,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_17_Dict" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/task" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_17_Dict/Lab115_Dict_Dup_Keys.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task/Task_13_OOPS_Concept_Q1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -236,7 +233,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab115_Dict_IQ" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Task_25_ClassPerson" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -245,11 +242,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_17_Dict" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/task" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_17_Dict/Lab115_Dict_IQ.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task/Task_25_ClassPerson.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -258,7 +255,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab116_IQ_count_vowel" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Task_26_Calc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -267,11 +264,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_17_Dict" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/task" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_17_Dict/Lab116_IQ_count_vowel.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task/Task_26_Calc.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -280,7 +277,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab117_OOps_Class" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Task_TriaglePrinting" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -289,11 +286,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_OOps_Python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/task" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_OOps_Python/Lab117_OOps_Class.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task/Task_TriaglePrinting.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -304,11 +301,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab117_OOps_Class" />
-        <item itemvalue="Python.Lab116_IQ_count_vowel" />
-        <item itemvalue="Python.Lab115_Dict_IQ" />
-        <item itemvalue="Python.Lab115_Dict_Dup_Keys" />
-        <item itemvalue="Python.Lab114_IQ_Dict" />
+        <item itemvalue="Python.Task_26_Calc" />
+        <item itemvalue="Python.Task_25_ClassPerson" />
+        <item itemvalue="Python.Task_13_OOPS_Concept_Q1" />
+        <item itemvalue="Python.Task_TriaglePrinting" />
+        <item itemvalue="Python.Lab124_OOps" />
       </list>
     </recent_temporary>
   </component>
@@ -431,7 +428,23 @@
       <option name="project" value="LOCAL" />
       <updated>1762516356714</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Task Pushed till Nov 11,2025">
+      <option name="closed" value="true" />
+      <created>1762861016695</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1762861016695</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Task Pushed till Nov 11,2025">
+      <option name="closed" value="true" />
+      <created>1763107300365</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1763107300365</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -445,6 +458,7 @@
     <MESSAGE value="Task updated till Nov 1, 2025" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
     <MESSAGE value="Task Pushed till Nov 1,2025" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task Pushed till Nov 1,2025" />
+    <MESSAGE value="Task Pushed till Nov 11,2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task Pushed till Nov 11,2025" />
   </component>
 </project>
