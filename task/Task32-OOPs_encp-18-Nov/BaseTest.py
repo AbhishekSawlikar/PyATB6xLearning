@@ -14,7 +14,7 @@ class BaseTest:
 class LoginTest(BaseTest):
     # def __init__(self):
     __username = "Admin"
-    __password = "12345"
+    __password = "Password@1"
 
 
     def run_test(self):
