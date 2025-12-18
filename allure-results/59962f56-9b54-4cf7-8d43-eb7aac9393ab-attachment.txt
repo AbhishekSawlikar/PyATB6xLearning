@@ -1,0 +1,4 @@
+<Response [200]>
+296f76c04b084a4
+https://restful-booker.herokuapp.com/booking
+202

@@ -1,0 +1,3 @@
+https://restful-booker.herokuapp.com/booking
+<Response [200]>
+6fb0f2e517136b2

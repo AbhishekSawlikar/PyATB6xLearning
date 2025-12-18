@@ -1,0 +1,4 @@
+<Response [200]>
+dc1a64e225043df
+https://restful-booker.herokuapp.com/booking
+67
